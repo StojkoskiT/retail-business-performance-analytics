@@ -1,0 +1,14 @@
+# Power BI temporary files
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# SQL Server files
+*.ldf
+*.mdf
+
+# Large raw files if needed
+*.zip
