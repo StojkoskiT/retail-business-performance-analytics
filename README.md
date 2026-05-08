@@ -107,7 +107,7 @@ How to Open and Run This Project
 
 ### 1. Clone the Repository
 Clone this repository from GitHub to your local machine.
-git clone https://github.com/YOUR_USERNAME/retail-business-performance-analytics.git
+git clone https://github.com/StojkoskiT/retail-business-performance-analytics.git
 Open the project folder in VS Code.
 
 ### 2. Open SQL Server Management Studio
